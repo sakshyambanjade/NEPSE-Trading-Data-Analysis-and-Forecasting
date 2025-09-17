@@ -95,6 +95,3 @@ The data has been only used for Education only.
 ---
 
 ```
-[8](https://www.daytona.io/dotfiles/how-to-write-4000-stars-github-readme-for-your-project)
-[9](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/)
-[10](https://dev.to/mfts/how-to-write-a-perfect-readme-for-your-github-project-59f2)
